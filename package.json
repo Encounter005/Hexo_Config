@@ -33,6 +33,6 @@
     "hexo-theme-redefine": "^2.6.4",
     "hexo-wordcount": "^6.0.1",
     "live2d-widget-model-miku": "^1.0.5",
-    "nodejieba": "^2.5.2"
+    "nodejieba": "^3.4.3"
   }
 }
